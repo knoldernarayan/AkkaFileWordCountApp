@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0mRunning wordCount.com.wordcount.WordCount [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/workspace/wordCount/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.21.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.13.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.0.13.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread HelloSystem-akka.actor.default-dispatcher-2 to terminate.[0m

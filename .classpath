@@ -1,0 +1,21 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala" output="target/scala-2.11/classes"/>
+  <classpathentry kind="src" path="src/main/java" output="target/scala-2.11/classes"/>
+  <classpathentry kind="src" path="src/test/scala" output="target/scala-2.11/test-classes"/>
+  <classpathentry kind="src" path="src/test/java" output="target/scala-2.11/test-classes"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.21.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.13.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.0.13.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.11/jars/scalac-scoverage-runtime_2.11-1.0.4.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-plugin_2.11/jars/scalac-scoverage-plugin_2.11-1.0.4.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.2.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar"/>
+  <classpathentry kind="lib" path="/home/knoldus/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
